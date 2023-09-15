@@ -1,3 +1,4 @@
+//第二次上机实验JAVA
 public class Main {
     public static void main(String[] args) {
         //计算1-99的累加和
