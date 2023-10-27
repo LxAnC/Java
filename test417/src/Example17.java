@@ -20,8 +20,8 @@ public class Example17 {
         System.out.println("Animal a1=new DOg():"+(a1 instanceof Animal));
         System.out.println("Animal a1=new DOg():"+(a1 instanceof Dog));
         Animal a2=new Animal();
-        System.out.println("Animal a1=new DOg():"+(a2 instanceof Animal));
-        System.out.println("Animal a1=new DOg():"+(a2 instanceof Dog));
+        System.out.println("Animal a2=new DOg():"+(a2 instanceof Animal));
+        System.out.println("Animal a2=new DOg():"+(a2 instanceof Dog));
 
 
     }
